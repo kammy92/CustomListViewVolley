@@ -41,32 +41,24 @@ public class MainActivity extends Activity {
 	private static final String TAG = "KARMAN";
 
 
-	//Karman singh isjkahsdkjhasdkjhas
-
-
+	//Karman singh isjkahsdkjhasdkjhaskjasdkajsndkajsn
+	private static final String url2 = "http://10.0.3.2/callsikandar/new/getallservices.php";
+	private static String response_type = "xml";
 	JSONArray jsonArrayGetAllServices = null;
 	JSONObject jsonObjectGetAllServices;
 	ArrayList<HashMap<String, String>> arrayListGetAllServices = new ArrayList<HashMap<String, String>> ();
-
-	private List<Services> servicesList = new ArrayList<Services> ();
-
 	int json_array_len = 0;  //  0 => default
 	int is_data_received = 0;   //  0 => default(no data received)
-
+	private List<Services> servicesList = new ArrayList<Services> ();
 	// Movies json url
 	private ProgressDialog pDialog;
 	private ListView listView;
 	private ServiceListAdapter adapter;
-
-	private static final String url2 = "http://10.0.3.2/callsikandar/new/getallservices.php";
 	/**
 	 * ATTENTION: This was auto-generated to implement the App Indexing API.
 	 * See https://g.co/AppIndexing/AndroidStudio for more information.
 	 */
 	private GoogleApiClient client;
-
-
-	private static String response_type = "xml";
 
 	@Override
 	protected void onCreate (Bundle savedInstanceState) {
