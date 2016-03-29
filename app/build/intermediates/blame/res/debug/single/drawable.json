@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Karman\\AndroidStudioProjects\\CustomListViewVolley\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_row_bg.xml",
+        "source": "D:\\Karman\\AndroidStudioProjects\\CustomListViewVolley\\app\\src\\main\\res\\drawable\\list_row_bg.xml"
+    },
+    {
+        "merged": "D:\\Karman\\AndroidStudioProjects\\CustomListViewVolley\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_row_bg_hover.xml",
+        "source": "D:\\Karman\\AndroidStudioProjects\\CustomListViewVolley\\app\\src\\main\\res\\drawable\\list_row_bg_hover.xml"
+    },
+    {
+        "merged": "D:\\Karman\\Own Projects\\CustomListViewVolley\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_row_bg.xml",
+        "source": "D:\\Karman\\Own Projects\\CustomListViewVolley\\app\\src\\main\\res\\drawable\\list_row_bg.xml"
+    },
+    {
+        "merged": "D:\\Karman\\Own Projects\\CustomListViewVolley\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_row_bg_hover.xml",
+        "source": "D:\\Karman\\Own Projects\\CustomListViewVolley\\app\\src\\main\\res\\drawable\\list_row_bg_hover.xml"
+    },
+    {
+        "merged": "D:\\Karman\\Own Projects\\CustomListViewVolley\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_row_selector.xml",
+        "source": "D:\\Karman\\Own Projects\\CustomListViewVolley\\app\\src\\main\\res\\drawable\\list_row_selector.xml"
+    },
+    {
+        "merged": "D:\\Karman\\AndroidStudioProjects\\CustomListViewVolley\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_row_selector.xml",
+        "source": "D:\\Karman\\AndroidStudioProjects\\CustomListViewVolley\\app\\src\\main\\res\\drawable\\list_row_selector.xml"
+    }
+]
