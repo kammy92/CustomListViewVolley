@@ -41,7 +41,8 @@ public class MainActivity extends Activity {
 	private static final String TAG = "KARMAN";
 
 
-	//Karman singh isjkahsdkjhasdkjhaskjasdkajsndkajsn
+	//Karman singh IS A GOOD BOY
+	
 	private static final String url2 = "http://10.0.3.2/callsikandar/new/getallservices.php";
 	private static String response_type = "xml";
 	JSONArray jsonArrayGetAllServices = null;
